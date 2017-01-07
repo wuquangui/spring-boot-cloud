@@ -9,13 +9,17 @@
         <module name="cloud-config-server" />
         <module name="cloud-registry-server" />
         <module name="microapp-1" />
+        <module name="microapp-2" />
+        <module name="zuul-proxy" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cloud-config-server" target="1.8" />
       <module name="cloud-registry-server" target="1.8" />
       <module name="microapp-1" target="1.8" />
+      <module name="microapp-2" target="1.8" />
       <module name="spring-boot-microservices" target="1.8" />
+      <module name="zuul-proxy" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
