@@ -12,6 +12,7 @@
         <module name="microapp-1" />
         <module name="microapp-2" />
         <module name="sidecar-1" />
+        <module name="task-demo" />
         <module name="zuul-proxy" />
       </profile>
     </annotationProcessing>
@@ -23,6 +24,7 @@
       <module name="microapp-2" target="1.8" />
       <module name="sidecar-1" target="1.8" />
       <module name="spring-boot-microservices" target="1.8" />
+      <module name="task-demo" target="1.8" />
       <module name="zuul-proxy" target="1.8" />
     </bytecodeTargetLevel>
   </component>

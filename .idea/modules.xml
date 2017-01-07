@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/microapp-2/microapp-2.iml" filepath="$PROJECT_DIR$/microapp-2/microapp-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/sidecar-1/sidecar-1.iml" filepath="$PROJECT_DIR$/sidecar-1/sidecar-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-microservices.iml" filepath="$PROJECT_DIR$/spring-boot-microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task-demo/task-demo.iml" filepath="$PROJECT_DIR$/task-demo/task-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul-proxy/zuul-proxy.iml" filepath="$PROJECT_DIR$/zuul-proxy/zuul-proxy.iml" />
     </modules>
   </component>
