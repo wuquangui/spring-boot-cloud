@@ -3,9 +3,11 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-data-flow-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-registry-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microapp-1" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microapp-2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sidecar-1" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zuul-proxy" charset="UTF-8" />
   </component>
 </project>
