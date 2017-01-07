@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-server/cloud-config-server.iml" filepath="$PROJECT_DIR$/cloud-config-server/cloud-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-registry-server/cloud-registry-server.iml" filepath="$PROJECT_DIR$/cloud-registry-server/cloud-registry-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-microservices.iml" filepath="$PROJECT_DIR$/spring-boot-microservices.iml" />
     </modules>
