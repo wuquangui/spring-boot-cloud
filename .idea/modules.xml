@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cloud-config-server/cloud-config-server.iml" filepath="$PROJECT_DIR$/cloud-config-server/cloud-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-registry-server/cloud-registry-server.iml" filepath="$PROJECT_DIR$/cloud-registry-server/cloud-registry-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microapp-1/microapp-1.iml" filepath="$PROJECT_DIR$/microapp-1/microapp-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-microservices.iml" filepath="$PROJECT_DIR$/spring-boot-microservices.iml" />
     </modules>
   </component>
